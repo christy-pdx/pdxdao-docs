@@ -1,14 +1,14 @@
-What is PDX DAO About?
+About PDX DAO
 =====
 
-.. _Mission:
+.. _About:
 
-Mission
+Manifesto
 ------------
 
-This is the mission statement of PDX DAO.
+This is the PDX DAO manifesto.
 
-Vision
+Values
 ----------------
 
-This is the vision of PDX DAO.
+These are the values of PDX DAO.
